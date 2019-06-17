@@ -16,6 +16,6 @@ Sqlite3
 
 ![alt](https://github.com/KatyainiRaturi/Student-Database/blob/master/Savedata.PNG)
 
-## Retrieve Data
+## Retrieve Data(Shown in Output)
 
 ![alt](https://github.com/KatyainiRaturi/Student-Database/blob/master/Retrievedata.PNG)
